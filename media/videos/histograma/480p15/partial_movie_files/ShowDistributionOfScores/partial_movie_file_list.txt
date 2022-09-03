@@ -1,0 +1,6 @@
+# This file is used internally by FFMPEG.
+file 'file:d:/ProjectosMath/histograma/media/videos/histograma/480p15/partial_movie_files/ShowDistributionOfScores/3163782288_1076141273_263923372.mp4'
+file 'file:d:/ProjectosMath/histograma/media/videos/histograma/480p15/partial_movie_files/ShowDistributionOfScores/2201830969_2215115657_3061673631.mp4'
+file 'file:d:/ProjectosMath/histograma/media/videos/histograma/480p15/partial_movie_files/ShowDistributionOfScores/2201830969_582044655_3445199778.mp4'
+file 'file:d:/ProjectosMath/histograma/media/videos/histograma/480p15/partial_movie_files/ShowDistributionOfScores/2201830969_96039005_1572955632.mp4'
+file 'file:d:/ProjectosMath/histograma/media/videos/histograma/480p15/partial_movie_files/ShowDistributionOfScores/2201830969_3987251656_2800134263.mp4'
